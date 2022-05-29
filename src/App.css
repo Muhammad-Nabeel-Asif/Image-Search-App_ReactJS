@@ -1,0 +1,20 @@
+.app {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.image {
+  height: 80%;
+  width: 90%;
+}
+
+.search-button {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
